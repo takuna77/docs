@@ -28,7 +28,7 @@ The online exam consists of a set of performance-based items \(problems\) to be 
 
 
 
-{% embed url="https://www.cncf.io/certification/cka/" %}
+<https://www.cncf.io/certification/cka/>
 
 
 
