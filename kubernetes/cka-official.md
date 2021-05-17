@@ -4,7 +4,7 @@ description: CKA Summary
 
 # CKA Official
 
-#### Exam details
+## Exam details
 
 The online exam consists of a set of performance-based items \(problems\) to be solved in a command line and candidates have 2 hours to complete the tasks.
 
@@ -16,7 +16,7 @@ The online exam consists of a set of performance-based items \(problems\) to be 
 | Storage | 10% |
 | Troubleshooting | 30% |
 
-#### Exam resources
+## Exam resources
 
 * [Candidate Handbook](https://training.linuxfoundation.org/go/cka-ckad-candidate-handbook)
 * [Curriculum Overview](https://github.com/cncf/curriculum)
@@ -26,9 +26,5 @@ The online exam consists of a set of performance-based items \(problems\) to be 
 * [Verify Certification](https://training.linuxfoundation.org/certification/verify-certifications)
 * [CKA Reseller FAQs](https://www.cncf.io/certification/expert/cka/reseller-faqs/)
 
-
-
-<"https://www.cncf.io/certification/cka/" >
-
-
+[https://www.cncf.io/certification/cka/](https://www.cncf.io/certification/cka/)
 
